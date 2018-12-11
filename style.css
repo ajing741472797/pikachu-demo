@@ -11,7 +11,6 @@
 }
 body{
     height: 100vh;
-    border:1px solid green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,11 +72,11 @@ body{
 }
 .face.left{
     right: 50%;
-    margin-right: 120px;
+    margin-right: 115px;
 }
 .face.right{
     left: 50%;
-    margin-left: 120px;
+    margin-left: 115px;
 }
 .upperLip{
     width: 64px;
